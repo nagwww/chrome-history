@@ -1,5 +1,5 @@
 # Introduction
-Import Chrome webserer history to elatic search for further analysis
+Import Chrome web browser history to elaticsearch for further analysis
 
 - Step1 :  Navigate to "cd ~/Library/Application\ Support/Google/Chrome/Default/History"
 
